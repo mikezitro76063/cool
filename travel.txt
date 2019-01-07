@@ -6,3 +6,5 @@ Packing List
 Picnic 
 ------------
 - Bread
+- Cheese
+- Grapes
